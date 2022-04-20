@@ -1,0 +1,14 @@
+{
+  "name": "custom-number-type-increment",
+  "version": "1.0.0",
+  "description": "Test de recrutement pour Fulll - Algo / custom-number-type-increment",
+  "main": "custom-number-type-increment.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Guillaume Broc",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

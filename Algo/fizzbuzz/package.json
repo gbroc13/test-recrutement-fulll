@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Test de recrutement pour Fulll - Algo / fizzbuzz",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Guillaume Broc",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
