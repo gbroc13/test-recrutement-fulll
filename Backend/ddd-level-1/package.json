@@ -1,0 +1,14 @@
+{
+  "name": "ddd-level-1",
+  "version": "1.0.0",
+  "description": "Test de recrutement pour Fulll - Algo / ddd-level-1",
+  "main": "src/App/ddd-level-1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Guillaume Broc",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
